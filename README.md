@@ -8,14 +8,6 @@ Atualmente, estou mergulhando em estudos de Desenvolvimento Web, aprimorando min
 
 Estou sempre procurando por oportunidades de aprendizado e projetos interessantes para contribuir.
 
-## Projetos Principais
-Aqui estão alguns dos meus projetos mais importantes:
-
-- [Portfolio Website](link para o projeto): Meu site pessoal onde mostro meu trabalho e projetos.
-- [Blog Tech](link para o projeto): Um blog onde compartilho meus insights e aprendizados na área de Desenvolvimento Web.
-
-Você pode encontrar mais projetos interessantes nos meus repositórios abaixo.
-
 ## Como Me Encontrar
 - LinkedIn: [Vitor Paiva](https://www.linkedin.com/in/vitor-paiva-programador/)
 - Email: paivavitorr@outlook.com
