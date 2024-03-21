@@ -1,6 +1,8 @@
 # Bem-vindo ao meu perfil do GitHub! 
 ## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorpaiv4&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorpaiv4&theme=dark)](https://github.com/anuraghazra/github-readme-stats) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
+
 
 ## Sobre Mim
 Meu nome é Vitor Paiva, sou estudante de Sistemas de Informação (2024-2027) com foco em Desenvolvimento Web, especialmente em Front-end. Estou muito animado para aprender e crescer nesta área em constante evolução.
