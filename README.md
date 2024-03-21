@@ -23,5 +23,6 @@ Você pode encontrar mais projetos interessantes nos meus repositórios abaixo.
 Sinta-se à vontade para entrar em contato comigo se quiser discutir colaborações, oportunidades ou apenas bater um papo!
 
 ## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorpaiv4)](https://github.com/anuraghazra/github-readme-stats)
+
 
