@@ -1,7 +1,10 @@
 # Bem-vindo ao meu perfil do GitHub! 
 ## Estatísticas do GitHub
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorpaiv4&theme=dark)](https://github.com/anuraghazra/github-readme-stats) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
+
 
 
 ## Sobre Mim
