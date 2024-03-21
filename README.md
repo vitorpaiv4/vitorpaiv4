@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
+# Bem-vindo ao meu perfil do GitHub! 
 
 ## Sobre Mim
 Meu nome é Vitor Paiva, sou estudante de Sistemas de Informação (2024-2027) com foco em Desenvolvimento Web, especialmente em Front-end. Estou muito animado para aprender e crescer nesta área em constante evolução.
