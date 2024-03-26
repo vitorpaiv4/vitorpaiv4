@@ -16,7 +16,8 @@ Atualmente, estou mergulhando em estudos de Desenvolvimento Web, aprimorando min
 Estou sempre procurando por oportunidades de aprendizado e projetos interessantes para contribuir.
 
 ## Como Me Encontrar
-- LinkedIn: [Vitor Paiva](https://www.linkedin.com/in/vitor-paiva-programador/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-paiva-programador/)
+
 - Email: paivavitorr@outlook.com
 
 Sinta-se à vontade para entrar em contato comigo se quiser discutir colaborações, oportunidades ou apenas bater um papo!
