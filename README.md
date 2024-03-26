@@ -18,7 +18,8 @@ Estou sempre procurando por oportunidades de aprendizado e projetos interessante
 ## Como Me Encontrar
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-paiva-programador/)
 
-- Email: paivavitorr@outlook.com
+- [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:paivavitorr@outlook.com)
+
 
 Sinta-se à vontade para entrar em contato comigo se quiser discutir colaborações, oportunidades ou apenas bater um papo!
 
