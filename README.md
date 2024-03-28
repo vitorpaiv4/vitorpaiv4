@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=15A134&random=false&width=435&lines=Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 ## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorpaiv4&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorpaiv4&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpaiv4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que uso:
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
