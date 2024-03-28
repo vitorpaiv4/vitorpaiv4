@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=500&height=61&lines=Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)## Estatísticas do GitHub
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=500&height=61&lines=Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+## Estatísticas do GitHub
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorpaiv4&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpaiv4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
