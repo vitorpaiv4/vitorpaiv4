@@ -1,5 +1,6 @@
 ## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorpaiv4&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpaiv4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorpaiv4&theme=transparent&bg_color=000&border_color=179443&show_icons=true&icon_color=30A3DC&title_color=179443&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorpaiv4&bg_color=000&border_color=179443&title_color=179443&text_color=FFF)
+
 
 
 ## Tecnologias que uso:
