@@ -22,6 +22,8 @@ Estou sempre procurando por oportunidades de aprendizado e projetos interessante
 
 Sinta-se à vontade para entrar em contato comigo se quiser discutir colaborações, oportunidades ou apenas bater um papo!
 
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farthurgalanti"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Farthurgalanti&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
+
 
 
 
