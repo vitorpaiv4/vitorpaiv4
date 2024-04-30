@@ -7,7 +7,8 @@
 ## Tecnologias que uso:
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
 
 ## Sobre Mim
 Meu nome é Vitor Paiva, sou estudante de Sistemas de Informação (2024-2027) com foco em Desenvolvimento Web, especialmente em Front-end. Estou muito animado para aprender e crescer nesta área em constante evolução.
