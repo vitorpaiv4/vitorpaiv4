@@ -1,21 +1,19 @@
-#include <stdio.h>
+##include <stdio.h>
 
 int main() {
-    int i;
-    float nota[4], m = 0;
+    float nota1, nota2, media1, media2;
 
-    for (i = 0; i < 4; i++) {
-        printf("\nDigite a nota %d: ", i + 1);
-        scanf("%f", &nota[i]);
-        m = m + nota[i];
-    }
+    printf("Digite a primeira nota: ");
+    scanf("%f", &nota1);
 
-    printf("\nValores das notas inseridas:\n");
-    for (i = 0; i < 4; i++) {
-        printf("Nota %d: %.2f\n", i + 1, nota[i]);
-    }
+    printf("Digite a segunda nota: ");
+    scanf("%f", &nota2);
 
-    printf("\nMédia das notas: %.2f\n", m / 4);
+    media1 = (nota1 + nota1) / 2;
+    media2 = (nota2 + nota2) / 2;
+
+    printf("\nMédia da primeira nota: %.2f\n", media1);
+    printf("Média da segunda nota: %.2f\n", media2);
 
     return 0;
 }
