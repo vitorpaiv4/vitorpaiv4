@@ -1,3 +1,25 @@
+#include <stdio.h>
+
+int main() {
+    int i;
+    float nota[4], m = 0;
+
+    for (i = 0; i < 4; i++) {
+        printf("\nDigite a nota %d: ", i + 1);
+        scanf("%f", &nota[i]);
+        m = m + nota[i];
+    }
+
+    printf("\nValores das notas inseridas:\n");
+    for (i = 0; i < 4; i++) {
+        printf("Nota %d: %.2f\n", i + 1, nota[i]);
+    }
+
+    printf("\nMédia das notas: %.2f\n", m / 4);
+
+    return 0;
+}
+
 ## Estatísticas do GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorpaiv4&bg_color=000&border_color=179443&title_color=179443&text_color=FFF)
