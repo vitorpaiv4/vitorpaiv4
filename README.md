@@ -1,22 +1,4 @@
-#include <stdio.h>
 
-int main() {
-    float notas[4][2];
-    float medias[4];
-
-    for (int i = 0; i < 4; i++) {
-        printf("Digite os dois valores para o par de notas %d: ", i + 1);
-        scanf("%f %f", &notas[i][0], &notas[i][1]);
-        medias[i] = (notas[i][0] + notas[i][1]) / 2;
-    }
-
-    printf("\nMédias dos pares de notas:\n");
-    for (int i = 0; i < 4; i++) {
-        printf("Par %d: %.2f\n", i + 1, medias[i]);
-    }
-
-    return 0;
-}
 
 ## Estatísticas do GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
