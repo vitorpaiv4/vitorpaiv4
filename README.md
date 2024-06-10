@@ -1,5 +1,6 @@
 # Vitor Paiva - Estudante de Sistemas de Informação e Desenvolvedor Web
 
+
 ## 📊 Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" alt="Anurag's GitHub Stats" />
