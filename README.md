@@ -7,6 +7,7 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorpaiv4&bg_color=000&border_color=179443&title_color=179443&text_color=FFF" alt="Top Languages" />
 </p>
 
+
 ## 💻 Tecnologias que Uso
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
