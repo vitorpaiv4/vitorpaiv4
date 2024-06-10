@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
 </p>
 
+
 ## 📖 Sobre Mim
 Meu nome é **Vitor Paiva**, sou estudante de **Sistemas de Informação (2024-2027)** com foco em **Desenvolvimento Web**, especialmente em **Front-end**. Estou muito animado para aprender e crescer nesta área em constante evolução.
 
