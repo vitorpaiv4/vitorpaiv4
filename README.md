@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
 </p>
