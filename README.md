@@ -4,7 +4,6 @@
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" alt="Anurag's GitHub Stats" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorpaiv4&bg_color=000&border_color=179443&title_color=179443&text_color=FFF" alt="Top Languages" />
 </p>
 
