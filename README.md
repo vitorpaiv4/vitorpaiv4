@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 **About Me**  
-Hi there! My name is **Vitor Paiva**, and I’m an **Information Systems** student and aspiring **Web Developer** with experience in **Front-end** development and growing interest in **Back-end** technologies.  
+Hi there! My name is **Vitor Gabriel Souza Pinheiro Paiva**, and I’m an **Information Systems** student and aspiring **Web Developer** with experience in **Front-end** development and growing interest in **Back-end** technologies.  
 
 I’m passionate about building functional and responsive interfaces using modern technologies. Always seeking new challenges, I enjoy continuous learning and contributing to impactful projects.  
 
