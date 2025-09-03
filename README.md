@@ -1,7 +1,5 @@
 # **Vitor Paiva - Information Systems Student and Web Developer**  
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorpaiv4&bg_color=000&border_color=179443&title_color=179443&text_color=FFF" alt="Top Languages" />
-</p>
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorpaiv4&bg_color=000&border_color=179443&title_color=179443&text_color=FFF" alt="Top Languages" /> </p>
 
 ---
 
@@ -13,7 +11,7 @@ I’m passionate about building functional and responsive interfaces using moder
 ---
 
 ## 💻 **Technologies and Tools**  
-Here are some of the main tools and languages I work with:  
+**Here are some of the main tools and languages I work with:  
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
@@ -27,7 +25,7 @@ Here are some of the main tools and languages I work with:
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-</p>
+</p>**
 
 ---
 
