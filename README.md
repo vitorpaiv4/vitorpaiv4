@@ -9,7 +9,7 @@
 
 ##  About Me  
 Hi! I’m **Vitor Gabriel Souza Pinheiro Paiva**   
- **Information Systems student** | 💻 **Aspiring Full-Stack Developer**  
+ **Information Systems student** |  **Aspiring Full-Stack Developer**  
 
  I love creating **functional** and **responsive** interfaces with modern technologies, and I’m constantly learning to improve my **back-end** knowledge.  
  Curious, passionate about tech, and motivated to build projects that **make an impact**.  
