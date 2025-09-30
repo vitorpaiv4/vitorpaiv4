@@ -1,4 +1,4 @@
-#  Vitor Paiva  
+<p align="center"> #  Vitor Paiva </p>  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=179443&center=true&vCenter=true&random=false&width=500&lines=Information+Systems+Student;Full-Stack+Developer+in+Progress;Always+Learning+%26+Building" alt="Typing SVG" />
