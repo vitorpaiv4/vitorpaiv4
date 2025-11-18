@@ -26,7 +26,7 @@ Hi! I’m **Vitor Gabriel Souza Pinheiro Paiva**
 
 ##  Current Focus  
 -  Diving deeper into **ReactJS**, **Next.js**, **TailwindCSS**, and **Node.js**  
--  Strengthening **Ruby** skills for back-end development  
+-  Strengthening **dotnet** skills for back-end development  
 -  Open to **open-source contributions** and **collaborative projects**  
 
 ---
