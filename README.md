@@ -5,7 +5,7 @@
 
 
 
-### Hi! I’m **Vitor **. I am an **Information Systems student** passionate about technology.
+### Hi! I’m **Vitor**. I am an **Information Systems student** passionate about technology.
 
 
 ### Tech Stack:
