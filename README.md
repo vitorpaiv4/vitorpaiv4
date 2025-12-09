@@ -19,7 +19,7 @@ Hi! I’m **Vitor Gabriel Souza Pinheiro Paiva**   
 ##  Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,tailwind,cs,dotnet,,figma,php" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,tailwind,cs,dotnet,figma,php" alt="Tech Stack" />
 </p>
 
 ---
