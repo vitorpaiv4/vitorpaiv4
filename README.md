@@ -1,33 +1,24 @@
-<h1 align="center">Vitor Paiva</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=179443&center=true&vCenter=true&width=500&lines=Information+Systems+Student;Full-Stack+Developer;Always+Learning" alt="Typing SVG" />
 </p>
 
----
 
 
-Hi! I’m **Vitor Gabriel**. I am an **Information Systems student** passionate about technology.
+### Hi! I’m **Vitor **. I am an **Information Systems student** passionate about technology.
 
-I focus on creating **responsive interfaces** and building robust **back-end** systems. My goal is to develop projects that make a real impact.
 
----
-
-### Tech Stack
+### Tech Stack:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,dotnet,php,mysql,linux&theme=dark" alt="Tech Stack" />
 </p>
 
----
-
-### Current Focus
+### Current Focus:
 
 * Studying **ReactJS**, **Next.js** and **TailwindCSS**.
 * Improving **.NET** and **PHP** skills.
 * Open to collaborative projects.
-
----
 
 
 <p align="center">
