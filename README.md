@@ -1,6 +1,6 @@
 ### About Me
 
-Hi there **Vitor Paiva**, a developer working at the intersection of Modern Front-ends, Corporate ERPs, and Data Engineering. I focus on building end-to-end solutions that solve real-world operational challenges.
+Hi there, a developer working at the intersection of Modern Front-ends, Corporate ERPs, and Data Engineering. I focus on building end-to-end solutions that solve real-world operational challenges.
 
 - Currently working with (React, Next.js, .NET & SQL Server)
 - Architecting data pipelines and BI tools with Python and T-SQL
