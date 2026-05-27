@@ -9,7 +9,7 @@ Hi there **Vitor Paiva**, a developer working at the intersection of Modern Fron
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vitor-paiva-programador/">
+  <a href="https://www.linkedin.com/in/vitor-paiva-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:paivavitorr@outlook.com">
