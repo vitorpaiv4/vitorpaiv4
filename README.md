@@ -20,7 +20,7 @@ Hi there, a developer working at the intersection of Modern Front-ends, Corporat
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,dotnet,python,sqlite,postgres,supabase,docker,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,typescript,tailwind,dotnet,python,sqlite,postgres,supabase,docker,linux,git&theme=dark" />
 </p>
 
 ### GitHub Analytics
